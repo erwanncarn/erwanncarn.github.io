@@ -162,3 +162,5 @@ section li { margin-bottom: 6px; }
 .edu { list-style: none; padding-left: 0; }
 .edu li { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
 .edu-date { color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.links i { width: 1.1em; text-align: center; margin-right: 2px; }
